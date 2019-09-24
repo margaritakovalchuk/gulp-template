@@ -1,7 +1,9 @@
 body {
-  background-color: #666;
-    span {
-      display: inline-block;
-      color: forestgreen;
-    }
+  background: linear-gradient(#e66465, #9198e5);
+  span {
+    display: flex;
+    justify-content: center;
+    color: forestgreen;
+    align-items: center;
   }
+}
